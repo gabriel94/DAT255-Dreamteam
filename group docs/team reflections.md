@@ -1,6 +1,6 @@
 ## Team Reflection Week 1, 22/3
 
-## The chosen scope of the application under development including priority of features and for whom you are creating value
+**The chosen scope of the application under development including priority of features and for whom you are creating value**
 Now
 Due to limited information about the project and its scope, it is impossible to tell at this stage.
 Goal
